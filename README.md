@@ -5,7 +5,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38B2AC)](https://tailwindcss.com/)
 
-A real-time marine monitoring system designed for coastal surveillance and environmental protection. This platform provides comprehensive tools for monitoring marine activities, detecting illegal fishing, and tracking environmental conditions.[![coastal-guard-website-link]((https://coastal-guard-essths-sdc.vercel.app/))
+A real-time marine monitoring system designed for coastal surveillance and environmental protection. This platform provides comprehensive tools for monitoring marine activities, detecting illegal fishing, and tracking environmental conditions.[[coastal-guard-website-link]((https://coastal-guard-essths-sdc.vercel.app/))
 
 
 
